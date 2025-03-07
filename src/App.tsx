@@ -1,6 +1,6 @@
 import "./App.css";
 import styled from "styled-components";
-import { createBrowserRouter, Route, RouterProvider, Routes } from "react-router";
+import { createBrowserRouter, RouterProvider} from "react-router";
 import Header from "./components/Header";
 import Nav from "./components/Nav";
 import Main from "./components/Main";
